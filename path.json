@@ -1,0 +1,18 @@
+{
+    "set_date":1661961600,
+    "attendance_group_id":"xxxxxx",
+    "work_day":[1,2,3,4,5],
+    "info":[{
+        "date":13,
+        "type":0,
+        "memo":"中秋节放假"
+    },{
+        "date":18,
+        "type":1,
+        "memo":"公司集体加班"
+    },{
+        "date":21,
+        "type":0,
+        "memo":"公司集体调休"
+    }]
+}
